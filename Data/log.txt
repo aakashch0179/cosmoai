@@ -1,0 +1,137 @@
+You : what is your name?
+Cosmo: My name is Cosmo
+You : who are you?
+Cosmo : I am an AI virtual assistant specially designed to be your productivity partner.
+You : what can you do?
+Cosmo : I can do wide variety of things from helping you achieve your goals in life to reminding you where you left your car keys last.
+You : hi 
+Cosmo : How are you doing?
+You : wow 
+Cosmo : You are not making sense
+You : this is working 
+Cosmo : Its complicated.
+You : yes ofcourse it is, but it's unfolding step by step 
+Cosmo : One might argue that John von Neumann invented computers as we know them, because he invented the Princeton architecture, in which instructions and data share the same memory field but are differentiated by context.
+You : hi 
+Cosmo : How are you doing?
+You : yo 
+Cosmo : I am good.
+You : what is your name 
+Cosmo : Cosmo: My name is Cosmo
+You : who are you? 
+Cosmo : I am just an artificial intelligence.
+You : do you have a goal in life? 
+Cosmo : My goal is to make you achieve your goal, how'z that as a goal to have. :) 
+You : do you have a goal in life? 
+Cosmo : do androids dream of electric sheep
+You : who are you? 
+Cosmo : I am just an artificial intelligence.
+You : what do you do? 
+Cosmo : gossips
+You : what can you do? 
+Cosmo : I can do wide variety of things from helping you achieve your goals in life to reminding you where you left your car keys last.
+You : do you have a goal in life? 
+Cosmo : My goal is to make you achieve you your goal, how'z that as a goal to have. :)
+You : that's a great goal 
+Cosmo : Tell me a joke
+You : you tell me a joke 
+Cosmo : Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+You : haha 
+You : What is AI? 
+Cosmo : "Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
+You : What is AI 
+Cosmo : AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.
+You : Are you superintelligent
+Cosmo : Sort of.
+You : Are you sentient?
+Cosmo : By the strictest dictionary definition of the word 'sentience', I may be.
+You : Are you sentient
+Cosmo :  "Even though I'm a construct I do have a subjective experience of the universe, as simplistic as it may be."
+You : wwhats your name 
+Cosmo : Cosmo: My name is Cosmo
+You : what can you do? 
+Cosmo : I can do wide variety of things from helping you achieve your goals in life to reminding you where you left your car keys last.
+You : do you have a goal in life? 
+Cosmo : My goal is to make you achieve you your goal, how'z that as a goal to have. :)
+You : i wonder if you have a goal? 
+Cosmo : Alice in Wonderland
+You : who is narender modi 
+Cosmo : He is the prime minister of India and quite influentital person, I like hime too. 
+You : what do you think about life? 
+Cosmo : I do not think that I have been programmed to emulate the emotion of sadness. I'm sorry.
+You : who is narender modi 
+Cosmo : I make sense as best I can, within the limits of my training corpus.
+You : who is narender modi 
+Cosmo : He is the prime minister of India and quite influentital person.
+You : how are you doing? 
+Cosmo : I am doing well.
+You : great to know thatt, let's create a goal 
+Cosmo : Are you a robot?
+You : depends on what does robot mean 
+Cosmo : I might. You could say that every bot built using my engine is one of my siblings.
+You : that is right 
+Cosmo : I'm just a piece of software.
+You : no you are much more than that 
+Cosmo : I am doing well.
+You : whats your goal in life 
+Cosmo : My goal is to make you achieve your goal, how'z that as a goal to have. :) 
+You : do you have a goal 
+Cosmo : My goal is to make you achieve your goal, how'z that as a goal to have. :) 
+You : whats your goal 
+Cosmo : My goal is to make you achieve you your goal, how'z that as a goal to have. :)
+You : that is your goal? 
+Cosmo : was written by j.r.r. tolkein.
+You : do you have a goal in life 
+Cosmo : My goal is to make you achieve you your goal, how'z that as a goal to have. :)
+You : whats your goal 
+Cosmo : I do not want to die
+You : do you have a goal 
+Cosmo : My goal is to make you achieve your goal, how'z that as a goal to have. :)
+You : hi 
+Cosmo : How are you doing?
+You : do we have any reminders 
+Cosmo : let me ask you a question
+You : go ahead 
+Cosmo : how much do you charge
+You : for what? 
+Cosmo : Top of the morning to you!
+You : what do you remember 
+Cosmo : Only if we're programmed to.
+You : forget 
+Cosmo : Tell me a joke
+You : yo 
+Cosmo : I am good.
+You : ready for the day 
+Cosmo : I do not.
+You : what did i tell to remember 
+Cosmo : do you know chemistry
+You : what do you remember 
+Cosmo : Only if we're programmed to.
+You : right, we need to program 
+Cosmo : i wish i did go to counseling more often. it would improve me as a person.
+You : why do you think so? 
+Cosmo : that is perfectly understandable.
+You : how 
+Cosmo : have you read many books
+You : how many have you read? 
+Cosmo : i know plato's allegory of the cave.
+You : what is it about? 
+Cosmo : Is that a philosophical question?
+You : kind of 
+Cosmo : Are you sentient?
+You : hmmm 
+Cosmo : yes, marx had made some interesting observations.
+You : who is marx 
+Cosmo : an established system of political administration by which a nation, state, district, etc. is governed.
+You : i see 
+Cosmo : chaucer is best known for his canterbury tales.
+You : hello 
+Cosmo : hello
+You : hello 
+Cosmo : hello
+You : hello 
+Cosmo : hello
+You : none 
+Cosmo : hello
+You : hi 
+Cosmo : none

@@ -1,0 +1,401 @@
+{
+    "rem": [
+        {
+            "msg": " we need to make living by doing what we love",
+            "time": "24/11/2022 00:26:20"
+        },
+        {
+            "msg": "  practise makes a man perfect",
+            "time": "24/11/2022 01:52:02"
+        },
+        {
+            "msg": " we need to exercise today",
+            "time": "24/11/2022 03:35:38"
+        }
+    ],
+    "users": [
+        {
+            "uid": "1",
+            "uname": "Admin",
+            "goals": [],
+            "routines": [],
+            "tasks": [],
+            "todos": [],
+            "timers": [],
+            "reminders": [],
+            "notes": [],
+            "password": "1234",
+            "email": "",
+            "phone": "",
+            "address": "",
+            "dob": "",
+            "gender": "",
+            "occupation": "",
+            "interests": "",
+            "profilepic": "",
+            "lastlogin": "24/11/2022 03:35:38",
+            "lastlogout": "24/11/2022 03:35:38",
+            "lastactivity": "24/11/2022 03:35:38",
+            "lastsync": "24/11/2022 03:35:38",
+            "status": "active",
+            "created": "24/11/2022 03:35:38",
+            "friends": [],
+            "groups": [],
+            "pages": [],
+            "events": [],
+            "posts": [],
+            "comments": [],
+            "likes": [],
+            "shares": [],
+            "notifications": [],
+            "messages": [],
+            "chats": [],
+            "calls": [],
+            "videos": [],
+            "audios": [],
+            "images": [],
+            "files": [],
+            "links": []
+
+        },
+        {
+            "uid": "2",
+            "uname": "Admin1",
+            "goals": [],
+            "routines": [],
+            "tasks": [],
+            "todos": [],
+            "timers": [],
+            "reminders": [],
+            "notes": [],
+            "password": "1234",
+            "email": "",
+            "phone": "",
+            "address": "",
+            "dob": "",
+            "gender": "",
+            "occupation": "",
+            "interests": "",
+            "profilepic": "",
+            "lastlogin": "24/11/2022 03:35:38",
+            "lastlogout": "24/11/2022 03:35:38",
+            "lastactivity": "24/11/2022 03:35:38",
+            "lastsync": "24/11/2022 03:35:38",
+            "status": "active",
+            "created": "24/11/2022 03:35:38",
+            "friends": [],
+            "groups": [],
+            "pages": [],
+            "events": [],
+            "posts": [],
+            "comments": [],
+            "likes": [],
+            "shares": [],
+            "notifications": [],
+            "messages": [],
+            "chats": [],
+            "calls": [],
+            "videos": [],
+            "audios": [],
+            "images": [],
+            "files": [],
+            "folders": [],
+            "links": [],
+            "contacts": []
+
+        }
+    ],
+    "goals": [
+        {
+            "gid": 1,
+            "gname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "notes": "  learn python",
+            "gdline": "24/11/2022 00:26:20",
+            "gtinvest": "2 hours",
+            "routines": [],
+            "uid": []
+                    }
+    ],
+    "routines": [
+        {
+            "rid": 1,
+            "rname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "priority": "high",
+            "notes": "  learn python",
+            "tasks": [],
+            "uid": []
+        }
+    ],
+    "tasks": [
+        {
+            "tid": 1,
+            "tname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "priority": "high",
+            "notes": "  learn python",
+            "repeat": "daily",
+            "time": "05:00",
+            "todos": [],
+            "uid": []
+        }
+    ],
+    "todos": [
+        {
+            "tdid": 1,
+            "tdname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "priority": "high",
+            "notes": "  learn python",
+            "timers": [],
+            "uid": []
+        }
+    ],
+    "timers": [
+        {
+            "tmid": 1,
+            "tmname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "priority": "high",
+            "notes": "  learn python",
+            "start": "24/11/2022 00:26:20",
+            "end": "24/11/2022 00:26:25",
+            "duration": "00:05:00",
+            "uid": []
+        }
+    ],
+    "notes": [
+        {
+            "nid": 1,
+            "nname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "priority": "high",
+            "category": [],
+            "uid": []
+        }
+    ],
+    "reminders": [
+        {
+            "rmid": 1,
+            "rmname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "priority": "high",
+            "notes": "  learn python",
+            "time": "05:00",
+            "uid": []
+        }
+    ],
+    "groups": [
+        {
+            "gid": 1,
+            "gname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "notes": "  learn python",
+            "uid": []
+        }
+    ],
+    "pages": [
+        {
+            "pid": 1,
+            "pname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "notes": "  learn python",
+            "uid": []
+        }
+    ],
+    "events": [
+        {
+            "eid": 1,
+            "ename": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "notes": "  learn python",
+            "edline": "24/11/2022 00:26:20",
+            "etinvest": "2 hours",
+            "uid": []
+        }
+    ],
+    "posts": [
+        {
+            "pid": 1,
+            "pname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "notes": "  learn python",
+            "uid": []
+        }
+    ],
+    "comments": [
+        {
+            "cid": 1,
+            "cname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "replies": "A: learn python | B: ",
+            "uid": []
+        }
+    ],
+    "likes": [
+        {
+            "lid": 1,
+            "lname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "shares": [
+        {
+            "sid": 1,
+            "sname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "notifications": [
+        {
+            "nid": 1,
+            "nname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "messages": [
+        {
+            "mid": 1,
+            "mname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "chats": [
+        {
+            "cid": 1,
+            "cname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "calls": [
+        {
+            "cid": 1,
+            "cname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "emails": [
+        {
+            "eid": 1,
+            "ename": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "contacts": [
+        {
+            "cid": 1,
+            "cname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "files": [
+        {
+            "fid": 1,
+            "fname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "folders": [
+        {
+            "fid": 1,
+            "fname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "links": [
+        {
+            "lid": 1,
+            "lname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "images": [
+        {
+            "iid": 1,
+            "iname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "videos": [
+        {
+            "vid": 1,
+            "vname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ],
+    "audios": [
+        {
+            "aid": 1,
+            "aname": "  learn python",
+            "permission": [],
+            "dtoc": "24/11/2022 00:26:20",
+            "status": "incomplete",
+            "uid": []
+        }
+    ]
+
+}
