@@ -1,0 +1,9 @@
+
+You : hi 
+Cosmo : I'm not sure what you mean.
+You : what is your name 
+Cosmo : I'm not sure what you mean.
+You : how are you 
+Cosmo : I'm not sure what you mean.
+You : hi 
+Cosmo : I'm not sure what you mean.
