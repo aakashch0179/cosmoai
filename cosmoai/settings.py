@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-y3+7pd$s4ykqk+^tsmxgq__bnt5$lqz)3$7dmi9o5wa(nz*9q$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0','10.0.2.2','localhost','127.0.0.1','192.168.58.126','*','35.72.8.129']
+ALLOWED_HOSTS = ['0.0.0.0','10.0.2.2','localhost','127.0.0.1','192.168.58.126',"*",'35.72.8.129']
 
 
 # Application definition
@@ -132,3 +132,5 @@ STATIC_URL = '/static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 MODELS = os.path.join(BASE_DIR, 'Data')
+
+NEURAL = os.path.join(BASE_DIR, 'neural')
