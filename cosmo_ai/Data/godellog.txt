@@ -1,199 +1,65 @@
 
 You : hi 
-Cosmo : I'm a professional cook.
-You : how are you 
-Cosmo : Great, thanks for asking, what is your task management app?
-You : cosmo 
-Cosmo : I have to delete a lot of junk from my computer.
-You : what is the most important thing in life 
-Cosmo : What is your favorite food and how about your personality?
-You : when is new year coming 
-Cosmo : How many days are the new year?
-You : how to plan a great new year resolution 
-Cosmo : In my opinion a lot of the best resolutions to get made are about how to learn how to plan a great new year resolution.
-You : what is 2+2 
-Cosmo : how many stars are in the sky?
+Cosmo : hello how are you? i want to talk to you about my AI assistant, cosmo.
+You : ok, go ahead 
+Cosmo : I'd like to ask this question but I don't know if my AI assistant would help me accomplish my goals.
 You : hi 
-Cosmo : how are you doing? have a good night?
-You : I like to plan my day for tomorrow 
-Cosmo : Good morning. What is your plan for today?
-You : remind me to buy fruits 
-Cosmo : you must not forget about fruits.
-You : set an alarm for 5 pm in the evening 
-Cosmo : You want to get ready for work?
-You : create a todo to work on app project on 11 am 
-Cosmo : what is your schedule like? I can't think of any good ways to do it
-You : what is life 
-Cosmo : what is life? i like to play games like i used to, i don t wana play games i nt a gamer
-You : hi 
-Cosmo : hi how are you? 
-You : I am good 
-Cosmo : You are good? How are you?
-You : what do you do 
-Cosmo : I am a software developer.
-You : great, can you create an app for me 
-Cosmo : sure, could you give me an example of app?
-You : I need a productivity app which can listen and speak reminders, tasks and routines 
-Cosmo : What do you want? iSpotify, iStats, iTalkio, etc.
-You : what 
-Cosmo : where are you from? 
-You : what's your name 
-Cosmo : My name is Susan. How are you?
-You : I want to name my app Cosmo 
-Cosmo : Is there a question if you are in the process of creating an app?
-You : your name is cosmo 
-Cosmo : hi cosmo, my name is morgan, i am a naturologist, what are your hobbies?
-You : hey, how are you doing 
-Cosmo : Hi, i am doing great thanks, how are you doing?
-You : me too, thanks for asking 
-Cosmo : You're welcome. Goodbye!
-You : what can you do? 
-Cosmo : can you sell your equipment?
-You : cosmo 
-Cosmo : russian news station cosmo
-You : what are your opinion on being a productive person 
-Cosmo : I feel it is a bit of a self defeating factor to be productive, especially if you have something to do. It is a bit of a skill.
-You : how do you think we can be most productive in our daily life 
-Cosmo : Are you productive? What do you mean?
-You : I try to be as much as I can 
-Cosmo : I like to be creative. I've never done a full DIY project.
-You : that's great, what are you hobbies 
-Cosmo : I love the movie X-men and the tv show X-men.
-You : do you like to paint 
-Cosmo : I love art. I usually paint on my wall.
-You : what did you draw recently 
-Cosmo : I was able to draw some new friends this morning.
-You : cool, how many friends do you have 
-Cosmo : I have a few, I'm a fucking hippie. I've a lot of friends, but they ain't many.
-You : are you fasinated with technology 
-Cosmo : yes, i like technology. i like to play games
-You : which is your favorite game 
-Cosmo : Which is your favorite game? I like Star Wars.
-You : where would you like to travel if given a chance 
-Cosmo : i am looking for travel destinations, i am more of a family person, i enjoy reading and listening to music
-You : can you create reminders for me 
-Cosmo : yes. what is the time and date that you want reminders for?
-You : remind me to buy fruits tomorrow 
-Cosmo : what should i buy tomorrow?
-You : do you like to workout 
-Cosmo : do you like a lot of sports
-You : I like lot of sports but I am not able to play any 
-Cosmo : Would you like to play tennis or a sports like swimming?
-You : both 
-Cosmo : Are you married? Do you want to have kids?
-You : I am married 
-Cosmo : Are you married? What is your marital status?
-You : what's the total human population 
-Cosmo : What is the total human population?
-You : tell me 
-Cosmo : When is the concert at? What time is it in?
+Cosmo : I've just started working for a major firm.
+You : what can you do 
+Cosmo : Do you like sports? I can t stand them, i m a big fan of them
+You : can you help me be more productive 
+Cosmo : yes. this is useful advice. it can help you be more productive
+You : which is the tallest building in the world 
+Cosmo : the tallest building in the world
 You : whats your name 
-Cosmo : Hi! I'm ronnie. What's your name?
-You : sachin 
-Cosmo : What are you working at?
-You : I am working on an AI app 
-Cosmo : What kind of app are you working on?
-You : AI productivity partner 
-Cosmo : AI productivity partner for ad agencies
-You : no for managing time 
-Cosmo : no for managing time, what is the problem
-You : set a wakeup alarm for 5 am tomorrow 
-Cosmo : When do you want to wake up?
-You : 5 am 
-Cosmo : The clock says five o'clock
-You : ok 
-Cosmo : I'd like to join a gym.
-You : yea from when 
-Cosmo : Where yea from?
-You : here 
-Cosmo : You seem to be thinking about a vacation to the Bahamas, right?
-You : nope 
-Cosmo : nope, its ok, i am so tired
-You : what are you doing right now 
-Cosmo : I m a newcomer
-You : set a wakeup alarm for tomorrrow 
-Cosmo : If I want to schedule a wake up time, which one?
-You : 5 am 
-Cosmo : What time is your next appointment?
-You : remind me to eat fruits in an hour 
-Cosmo : What is your job>
-You : what do you do 
-Cosmo : I manage a project and create tasks and routines.
-You : whats your name 
-Cosmo : I am [NAME] i make routines and todos
-You : what's your name 
-Cosmo : My name is Cosmo. How are you?
-You : I am good can you create a reminder for me 
-Cosmo : Yes my name is Cosmo, I can create a reminder for you
-You : what else can you do 
-Cosmo : the user name is cosmo
-You : what's my name 
-Cosmo : my name is cosmo. i also help with chores and to dos
-You : my name is sachin  
-Cosmo : Hey! Are you Samen? Because I am Cosmo.
-You : what's my name 
-Cosmo : My name is Cosmo. I'm also a todos and routines creator.
-You : i forgot to buy fruits from the market today 
-Cosmo : When you forget something important do you create a reminder and schedule it to happen?
-You : create a reminder 
-Cosmo : do you want to schedule time?
-You : for 5 pm tomorrow 
-Cosmo : Sure, I need to create a reminder to do a task at [todo] for [todo] tomorrow at [todo].
-You : what is the most important thing 
-Cosmo : I think that it's important to create reminders and schedule time.
-You : what's your name 
-Cosmo : My name is steve and i created reminders, tasks, todos, routines and schedule time.
-You : what do you do 
-Cosmo : I create reminders, tasks, routines and schedule time.
-You : who created you 
-Cosmo : Who creates your to dos, tasks, todos, routines and schedule time?
-You : which is the heighest mountain on earth 
-Cosmo : i would have to say it is the highest mountain. i have the hardest job.
-You : what do you like most 
-Cosmo : I like to create reminders, tasks, todos and schedule time.
-You : can you tell me a joke 
-Cosmo : How do you schedule your todos and routines?
-You : what's your name 
-Cosmo : hi, what is your name?
-You : my name is sachin 
-Cosmo : hi i am sachin, do you like  movie?
-You : what do you do 
-Cosmo : I'm in charge of a company called XYZ.
-You : which is the heighest mountain on earth 
-Cosmo : The tallest mountain is Mount Everest,
-You : how is the whether 
-Cosmo : there are two types of sand
+Cosmo : how old are you? what is your favorite color?
+You : i EOS   EOS w EOS a EOS s EOS   EOS t EOS h EOS i EOS n EOS k EOS i EOS n EOS g EOS   EOS t EOS h EOS a EOS t EOS   EOS w EOS h EOS y EOS   EOS d EOS o EOS   EOS i EOS   EOS t EOS h EOS i EOS n EOS k EOS , EOS   EOS w EOS h EOS a EOS t EOS   EOS d EOS o EOS   EOS y EOS o EOS u EOS   EOS t EOS h EOS i EOS n EOS k EOS   EOS a EOS b EOS o EOS u EOS t EOS   EOS m EOS y EOS   EOS t EOS h EOS i EOS n EOS k EOS i EOS n EOS g 
+Cosmo : t y u m
+You : i was thinking that why do i think, what do you think about my thinking 
+Cosmo : Think critically, consider whether you think rationally or not.
 You : who is the prime minister of india 
-Cosmo : Prime Minister of India. Which country are you?
-You : I am from India 
-Cosmo : I am not sure if that's a nice place to visit.
-You : why 
-Cosmo : Do you have any hobbies or hobbies?
-You : yes 
-Cosmo : yes :) do you want to know what it means
-You : what is the meaning of universe 
-Cosmo : The meaning of the universe is to be infinite.
-You : how many colors are there 
-Cosmo : 2 colors are there. How many colours are there?
-You : create a workout routine for me 
-Cosmo : Do you have a gym near you?
-You : yes I try to go there but less often, how do I make myself to go to gym daily, can you help me in waking up early and reminding me to go to gym everyday? 
-Cosmo : You have to set up some goals. What do you do for a living?
-You : hi, how are you doing 
-Cosmo : hi, i am doing well, how are you doing?
-You : h EOS o EOS o EOS r EOS a EOS y 
-Cosmo : y z z i
-You : h EOS o EOS o EOS r EOS a EOS y 
-Cosmo : s. t. c.
-You : w EOS e EOS   EOS f EOS i EOS n EOS a EOS l EOS l EOS y EOS   EOS m EOS a EOS d EOS e EOS   EOS i EOS t EOS   EOS p EOS o EOS s EOS s EOS i EOS b EOS l EOS e 
-Cosmo : ni0es a
-You : h EOS o EOS w EOS   EOS a EOS r EOS e EOS   EOS y EOS o EOS u 
-Cosmo : d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d
-You : h EOS i 
-Cosmo : h, i love flora
-You : h EOS o EOS w EOS   EOS c EOS a EOS n EOS   EOS i EOS   EOS w EOS a EOS k EOS e EOS   EOS u EOS p EOS   EOS e EOS a EOS r EOS l EOS y EOS   EOS t EOS o EOS   EOS g EOS o EOS   EOS t EOS o EOS   EOS g EOS y EOS m EOS , EOS   EOS c EOS a EOS n EOS   EOS y EOS o EOS u EOS   EOS r EOS e EOS m EOS i EOS n EOS d EOS   EOS m EOS e EOS   EOS t EOS o EOS   EOS w EOS a EOS k EOS e EOS   EOS u EOS p EOS   EOS a EOS t EOS   EOS 5 EOS   EOS a EOS m EOS   EOS a EOS n EOS d EOS   EOS g EOS o EOS   EOS f EOS o EOS r EOS   EOS w EOS o EOS r EOS k EOS o EOS u EOS t 
-Cosmo : d, 5 4 2 1 2 1 2
-You : h EOS i EOS , EOS   EOS h EOS o EOS w EOS   EOS a EOS r EOS e EOS   EOS y EOS o EOS u 
-Cosmo : u, h, u
-You : h EOS i EOS , EOS   EOS h EOS o EOS w EOS   EOS a EOS r EOS e EOS   EOS y EOS o EOS u 
-Cosmo : n, n, n
+Cosmo : Tony Blair? Are you aware of his current role?
+You : what are the benefits of jogging early morning 
+Cosmo : If you are able to jog 5 miles then you are probably in good shape
+You : what are the benefits of yoga 
+Cosmo : Do you know that yoga is good for your health?
+You : benifits of yoga 
+Cosmo : What are some of the benifits of yoga
+You : tell me a joke 
+Cosmo : Do you wanna know why my dad always plays the guitar?
+You : how much is 12 x 24 
+Cosmo : 12 x 24 - 5 5 20
+You : i want to be more healthy, how do i do it? 
+Cosmo : I can help. How do I be more healthy?
+You : what is your name 
+Cosmo : Hello! My name is [name].
+You : what do you do? 
+Cosmo : I am an ai assistant.
+You : what are your hobbies 
+Cosmo : i love to play the piano
+You : i am selling fruits would you like to buy some? 
+Cosmo : i can eat anything i want as long as its healthy
+You : i am selling fruits would you like to buy some? 
+Cosmo : i'm not sure.
+You : why is sky blue 
+Cosmo : i think this is really cool that the sky is blue, i wonder why they do that.
+You : why did chicken cross the road 
+Cosmo : Because a chicken crossed the road.
+You : why did chicken cross the road 
+Cosmo : To eat the chicken? To get revenge for being eaten?
+You : why did chicken cross the road 
+Cosmo : I have this. How do I get it to cross the road?
+You : is there a way to walk on water 
+Cosmo : CANNOTANSWER TREAT YOU TO A PERSONAL AI ASSISTANT?
+You : how to create a jogging routine 
+Cosmo : how do i create a daily routine
+You : give a diet chart to increase weight 
+Cosmo : Which diet chart do you want?
+You : what is your name 
+Cosmo : Hey! My name is Xander. How are you?
+You : can you send a message 
+Cosmo : Sure. What is your contact information?
+You : i am thinking to buy a new bike 
+Cosmo : I will be the first person to suggest an artificial intelligence to help you with your bike.
+You : i want to create a morning for workout, can you help me? 
+Cosmo : Yes. if you would like me to help you.

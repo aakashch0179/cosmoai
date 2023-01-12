@@ -92,7 +92,7 @@ def ExecuteQuery(query):
 
                 reply = random.choice(intent["responses"])
                 
-                return reply
+                return reply, tag
 
 
 

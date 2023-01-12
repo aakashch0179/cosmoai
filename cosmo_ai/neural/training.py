@@ -44,7 +44,7 @@ def Training():
 
         return bag
 
-    with open("/Users/sachinverma/Documents/Development/experiment/cosmoai/cosmo_ai/neural/intents.json",'r') as f:
+    with open("cosmoai/cosmo_ai/neural/intents.json",'r') as f:
         intents = json.load(f)
 
     all_words = []
@@ -135,7 +135,7 @@ def Training():
     "tags":tags
     }
 
-    FILE = "/Users/sachinverma/Documents/Development/experiment/cosmoai/cosmo_ai/neural/intents.pth"
+    FILE = "cosmoai/cosmo_ai/neural/intents.pth"
     torch.save(data,FILE)
 
     print(f"Training Complete, File Saved To {FILE}")

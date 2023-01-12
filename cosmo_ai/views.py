@@ -6,13 +6,15 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 # import openai
 # import re
+import random
 import json
 from datetime import datetime
 from cosmo_ai.tasks import *
 from django.http import JsonResponse
-# from cosmo_ai.godel import generate
+from cosmo_ai.godel import generate
 # from keys.open_api import API_KEY
 from cosmo_ai.neural.executequery import ExecuteQuery
+from cosmo_ai.neural.getvalues import getValues
 # from googletrans import Translator
 
 
@@ -91,7 +93,22 @@ def index(request):
 #     translate = Translator()
 #     result = translate.translate(line, dest='en')
 #     data = result.text
-#     return data   .body.decode("utf-8")
+#     return data   
+
+# translator = Translator()
+
+# def transl():
+#     result = translator.translate("what is this written explain it", dest='hi')
+#     print(result.text)
+
+
+
+instruction = f'Instruction: given a dialog context and related knowledge, you need to empathically answer the question based on the knowledge.'
+# knowledge = ''
+know = open("cosmo_ai/Data/knowledge.txt", "r")
+knowledge = know.read()
+
+
 
 
 class CosmoAi(APIView):
@@ -143,12 +160,149 @@ class CosmoAi(APIView):
         #             json.dump(data, f, indent=4)
         #         print(f"Cosmo : Ok, I have created the goal {goal}")
         # else:
+        
         response = ExecuteQuery(dialoq)
-        print("Cosmo : ", response)
-        return JsonResponse({
-        # 'uuid': result.uuid,
-        'messages': response
-     })
+        values = getValues(dialoq)
+        # if values[4] is None:
+        #     repeat = 'Once'
+        # elif values[4] is 'daily':
+        #     repeat = 'Daily'
+        
+        
+        
+        if response[1] == "create_reminder":
+            # if values[4] == 'notime':
+            #     return JsonResponse({
+            #         'messages': 'At what time do you want me to remind you?',
+            #     })
+            # else:
+            return JsonResponse({
+                'messages': response[0],
+                'action': response[1],
+                'function': [{
+                        'id': random.randint(1, 100000),
+                        'sound': 'General',
+                        'subTitle': 'Task',
+                        'type': 'Note',
+                        'title': values[0],
+                        'description': '',
+                        'time': values[1].upper(),
+                        'timestamp' : datetime.now().strftime("%d-%m-%Y %H:%M:%S.%f"),
+                        'enable': False,
+                        'report': [],
+                        'icon': 'https://firebasestorage.googleapis.com/v0/b/cosmo-f5007.appspot.com/o/categories%2FIcons%2Ftaskicon.svg?alt=media&token=56f3fc55-8eda-4463-bceb-7bf3198dff3c',
+                        'color': 'FFD700',
+                        'sharedToMe': [],
+                        'sharedByMe': [],
+                        'repeat': 'Once',
+                        'reminders': [{
+                            'time': values[1].upper(),
+                            'enable': False,
+                            'repeat': 'Once',
+                            'title': values[0],
+                            'id': random.randint(1, 100000),
+                            'note': '',
+                            'dates': [],
+                            }],
+                    }]
+            })
+            
+        elif response[1] == 'create_todo':
+            return JsonResponse({
+            'messages': response[0],
+            'action': response[1],
+            'function': [{
+                'name': 'defaulttodo',
+                'id': random.randint(1, 100000),
+                'subTasks': [{
+                    'task':values[0].replace("create a todo", ""),
+                    'done': False
+                }],
+                'shared': [],
+                'sharedByMe': [],
+                    }],
+            })
+            
+        elif response[1] == 'create_note':
+            return JsonResponse({
+            'messages': response[0],
+            'action': response[1],
+            'function': {
+                'title': 'defaultnote',
+                'id': random.randint(1, 100000),
+                'type': 'Note',
+                'description': values[0],
+                'time': datetime.now().strftime("%d/%m/%Y"),
+                'mainTime': datetime.now().strftime("%I:%M %p"),
+                'complete': False,
+                'shared': [],
+                'sharedByMe': [],
+                }
+            })
+            
+        elif response[1] == 'show_people':
+            return JsonResponse({
+                'messages': response[0],
+                'action': response[1]
+            })
+            
+        elif response[1] == 'show_friends':
+            return JsonResponse({
+                'messages': response[0],
+                'action': response[1]
+            })
+            
+        elif response[1] == 'show_allgroups':
+            return JsonResponse({
+                'messages': response[0],
+                'action': response[1]
+            })
+        elif response[1] == 'show_mygroups':
+            return JsonResponse({
+                'messages': response[0],
+                'action': response[1]
+            })  
+        elif response[1] == 'show_allcommunities':
+            return JsonResponse({
+                'messages': response[0],
+                'action': response[1]
+            })
+        elif response[1] == 'show_mycommunities':
+            return JsonResponse({
+                'messages': response[0],
+                'action': response[1]
+            }) 
+        elif response[1] == 'name':
+            return JsonResponse({
+                'messages': response[0]
+            })
+            
+        elif response[1] == 'greeting':
+            return JsonResponse({
+                'messages': response[0]
+            })
+            
+        elif response[1] == 'commands':
+            return JsonResponse({
+                'messages': response[0]
+            })
+        elif response[1] == 'goodbye':
+            return JsonResponse({
+                'messages': response[0]
+            })
+        else: 
+            return JsonResponse({
+                'messages': generate(instruction, knowledge, dialoq)
+            })
+            
+        
+            
+        
+            
+        
+        
+        
+       
                 
 
 

@@ -1,6 +1,21 @@
 {
     "intents": [
         {
+            "tag": "catch_all",
+            "patterns": [
+                "I don't understand", 
+                "Can you explain that again?",
+                "I am not sure what you mean",
+                "Can you help me with that?",
+                "I am lost"
+            ],
+            "responses": [
+                "I apologize, let me try to clarify. Can you please rephrase your question or provide more information?",
+                "I am sorry, I am not quite sure what you are asking. Can you please elaborate?",
+                "I apologize for the confusion. Can you please provide more context or rephrase your question?"
+            ]
+        },
+        {
             "tag": "greeting",
             "patterns": [
                 "hello",
@@ -25,18 +40,60 @@
             ]
         },
         {
+            "tag": "goodbye",
+            "patterns": [
+                "bye",
+                "see you later",
+                "see you soon",
+                "goodbye"
+
+            ],
+            "responses": [
+                "See you later, thanks for visiting",
+                "Have a nice day",
+                "Bye! Come back again soon."
+            ]
+        },
+        {
+            "tag": "commands",
+            "patterns": [
+                "what do you do",
+                "what can you do",
+                "what can you do for me",
+                "what can you do for me?",
+                "what can you do for me cosmo"
+
+            ],
+            "responses": [
+                "I can help you to manage your daily routines, create reminders, todo lists, notes and attach them to different goals, also I can help connecting you with other like minded people who have similar goals, and much more. Say View Commands to see all the things I can do for you."
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "whats your name",
+                "what is your name",
+                "what should I call you",
+                "what should I call you?",
+                "who are you",
+                "who are you?",
+                "who am I talking to",
+                "do I know you?"
+
+            ],
+            "responses": [
+                "My name is Cosmo, I am your personal assistant."
+            ]
+        },
+        {
             "tag": "create_reminder",
             "patterns": [
                 "remind me to",
-                "remind at",
                 "remind me at",
                 "remind me on",
-                "remind to",
                 "create a reminder",
                 "set a reminder",
-                "remind me",
-                "remind me to do something",
-                "remind me to do something at a specific time"
+                "remind me"
             ],
             "responses": [
                 "I'll make sure to remind you that",
