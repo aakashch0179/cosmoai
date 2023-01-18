@@ -11,7 +11,6 @@ import json
 from datetime import datetime
 from cosmo_ai.tasks import *
 from django.http import JsonResponse
-from cosmo_ai.godel import generate
 # from keys.open_api import API_KEY
 from cosmo_ai.neural.executequery import ExecuteQuery
 from cosmo_ai.neural.getvalues import getValues
@@ -101,12 +100,6 @@ def index(request):
 #     result = translator.translate("what is this written explain it", dest='hi')
 #     print(result.text)
 
-
-
-instruction = f'Instruction: given a dialog context and related knowledge, you need to empathically answer the question based on the knowledge.'
-# knowledge = ''
-know = open("cosmo_ai/Data/knowledge.txt", "r")
-knowledge = know.read()
 
 
 
@@ -276,6 +269,10 @@ class CosmoAi(APIView):
             return JsonResponse({
                 'messages': response[0]
             })
+        elif response[1] == 'creator':
+            return JsonResponse({
+                'messages': response[0]
+            })
             
         elif response[1] == 'greeting':
             return JsonResponse({
@@ -290,9 +287,14 @@ class CosmoAi(APIView):
             return JsonResponse({
                 'messages': response[0]
             })
+        elif response[1] == 'view_commands':
+            return JsonResponse({
+                'messages': response[0],
+                'action': response[1]
+            })
         else: 
             return JsonResponse({
-                'messages': generate(instruction, knowledge, dialoq)
+                'messages': 'this is not a valid command, say "veiw commands" to see all the commands'
             })
             
         

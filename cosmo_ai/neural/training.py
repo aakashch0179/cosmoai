@@ -145,9 +145,3 @@ def Training():
 
 
 Training()
-
-# TrainTalks()
-# print(TasksExecutor("hi"))
-# queri = input("Enter Your Query : ")
-# response = TasksExecutor(queri)
-# print(response)
