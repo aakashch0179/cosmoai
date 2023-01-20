@@ -4,7 +4,7 @@ Cosmo : My name is Cosmo.
 You : hi 
 Cosmo : Hi there! How can I help you?
 You : what can you do 
-Cosmo : I can help you with a variety of tasks, such as providing information, answering questions, and helping you find what you need.
+Cosmo : 
 You : can you create an exercise routine for me 
 Cosmo : Absolutely! What type of exercise routine would you like me to create for you?
 You : I need to start excersicing after a long time, give me a routine 
@@ -43,3 +43,40 @@ You : how to create a routine?
 Cosmo : 1. Start by setting a goal. Decide what you want to accomplish with your routine and why it’s important to you.
 
 2. Break down the goal into smaller, achievable tasks. For example, if your goal is to exercise more, break it down into specific
+You : what are predictions for year 2023 
+Cosmo : There is no definitive answer to this question as future predictions are always subject to change. However, some possible predictions for the year 2023 include:
+
+-The world will continue to experience significant economic growth and progress.
+-The global population will continue to grow, reaching over 10 billion
+You : what is your name 
+Cosmo : My name is Sarah.
+You : who created you 
+Cosmo : There is no one answer to this question as everyone has their own story of how they came to be. Some people say they were born from the air, while others say they were created from the energy of the sun. There is no right or wrong answer, as each person's story is
+You : what can you do 
+Cosmo : if you are a student
+
+If you are a student, you can find many ways to get help. You can go to the Student Services Desk at the library, or contact the Campus Counseling Center. You can also find information on campus resources, such as student organizations, career resources, and
+You : stephen hawkings once said 
+Cosmo : "The universe is not a deterministic event. There is no single cause or effect. Everything that happens is a result of the sum total of our actions and thoughts."
+You : show commands 
+Cosmo : sudo apt-get update sudo apt-get install python-pip sudo pip install -U git sudo git clone https://github.com/pypa/pip.git cd pip sudo pip install -U wheel
+You : red color is more white than green 
+Cosmo : The color green is more white than any other color.
+You : red color is more white than green 
+Cosmo : The color green is more white than any other color.
+You : red color is more white than green 
+Cosmo : The color green is more white than any other color.
+You : total number of countries  in the world 
+Cosmo : There are over 190 countries in the world.
+You : do you have feelings 
+Cosmo : for him?
+
+No, I do not have feelings for him.
+You : what is your goal in life 
+Cosmo : ?
+
+My goal in life is to be happy and to help others be happy.
+You : what is your goal in life 
+Cosmo : ?
+
+My goal in life is to be happy and to help others be happy.

@@ -9,8 +9,10 @@
                 "view all commands",
                 "show all commands"
             ],
-            "responses": 
-                "Here is the list of commands you can use"
+            "responses": [
+                "Here is the list of commands you can use",
+                "Here is the list of things I can do for you"
+            ]
         },
         {
             "tag": "greeting",
@@ -58,7 +60,8 @@
 
             ],
             "responses": [
-                "I can help you to manage your daily routines, create reminders, todo lists, notes and attach them to different goals, also I can help connecting you with other like minded people who have similar goals, and much more. Say View Commands to see all the things I can do for you."
+                "I can help you with a variety of tasks, such as providing information, answering questions, helping you create routines, reminders, todos, notes and connect you with other like minded people, and much more. Say View Commands to see all the things I can do for you."
+                
             ]
         },
         {
@@ -111,11 +114,11 @@
         {
             "tag": "create_todo",
             "patterns": [
-                "create a todo",
-                "set a todo",
-                "create a todo list",
-                "create a todo list for me",
-                "create a todo list for me to do"
+                "create a to do",
+                "set a to do",
+                "create a to do list",
+                "create a to do list for me",
+                "create a to do list for me to do"
             ],
             "responses": [
                 "Todo created"
@@ -224,6 +227,32 @@
                 "Here's your schedule for tomorrow",
                 "Here's your tomorrow's schedule",
                 "Here's your schedule"
+            ]
+        },
+        {
+            "tag": "new_requests",
+            "patterns": [
+                "do i have any new requests",
+                "are there any new requests"
+            ],
+            "responses": [
+                "Here are the requests you've recieved"
+            ]
+        },
+        {
+            "tag": "shared_reminders",
+            "patterns": [
+                "show my shared routines",
+                "show my shared reminders",
+                "show all shared reminders",
+                "show all shared routines",
+                "show reminders shared by me",
+                "show routines shared by me",
+                "show reminders shared with me",
+                "show routines shared with me"
+            ],
+            "responses": [
+                "Here are your shared reminders"
             ]
         },
         {
@@ -374,6 +403,19 @@
                 "Here are your communities",
                 "Here are the communities you've joined",
                 "Here you go"
+            ]
+        },
+        {
+            "tag": "nocoinuse",
+            "patterns": [
+                "give me a basic exercise routine",
+                "what would be a good exercise routine for me",
+                "tell me a simple exercise routine",
+                "give me a simple exercise routine",
+                "give me a basic exercise routine to start with"
+            ],
+            "responses": [
+                "Sure! Here is a basic exercise routine that you can start with: Monday: 30 minutes of cardio (jogging, cycling, swimming, etc.) Tuesday: 30 minutes of strength training (bodyweight exercises, weightlifting, etc.) Wednesday: 30 minutes of stretching"
             ]
         }
     ]

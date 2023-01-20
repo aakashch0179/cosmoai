@@ -10,7 +10,7 @@ def findTime(input):
     #     return tvalue
     # else:
     #     return "notime"
-    time_regex1 = r"(1[0-2]|[1-9]):[0-5][0-9] (AM|PM)"
+    time_regex1 = r"(1[0-2]|[1-9]):[0-5][0-9] (am|AM|PM|pm)"
     time_search = re.search(time_regex1, input)
     if time_search:
         time = time_search.group(0)

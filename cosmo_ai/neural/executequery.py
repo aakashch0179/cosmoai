@@ -84,7 +84,7 @@ def ExecuteQuery(query):
     probs = torch.softmax(output,dim=1)
     prob = probs[0][predicted.item()]
 
-    if prob.item() > 0.75:
+    if prob.item() > 0.90:
 
         for intent in intents['intents']:
 
@@ -93,6 +93,10 @@ def ExecuteQuery(query):
                 reply = random.choice(intent["responses"])
                 
                 return reply, tag
+    if prob.item() < 0.70:
+        reply = "opencosmo"
+        tag = "opencosmo"
+        return reply, tag
 
 
 
@@ -100,6 +104,7 @@ def ExecuteQuery(query):
 #     query = input("Enter your query: ")
 #     reply = ExecuteQuery(query)
 #     print(f"Cosmo: {reply[0]}")
+#     print(reply[2])
     
     
 # while True:
